@@ -3,7 +3,7 @@ Futuregames Assignment, Racegame
 
 For the assignment, I choose to make a racing game. 
 
-How to start the game- To start the game. open the Assets folde, Scenes folder, Main Menu Folder and open the Main Menu scene. From there you can choose from all the different playmodes and levels. All the scripts are in the scripts folder. If you want to take a look at the prefabs there is also a prefab folder. The input actions are located in the Inputs Folder, and all the assets used are in the AssetStore folder. 
+How to start the game- To start the game. open the Assets folde, Scenes folder, Main Menu Folder and open the Main Menu scene. From there you can choose from all the different playmodes and levels. All the scripts are in the scripts folder. If you want to take a look at the prefabs there is also a prefab folder. The input actions are located in the Inputs Folder, and all the assets used are in the AssetStore folder. There is also a scriptable object to store score, which is located in the SO folder.
 
 Inputs:
 For GamePad, these are the inputs: 
