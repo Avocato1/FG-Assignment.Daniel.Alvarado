@@ -46,7 +46,7 @@ The health pickups are to increase health when health is less then 100. You can 
 There is also coins to collect, and for every 30 coins collected, the player gets a speed boost. All the score collected in eachlevel does not carry over to the next level, so there is no leaderboard system in the game. 
 On level 1 and 3, there is a jump. To make the jump, the player needs to go through the speed boost that are placed before the jump. I want the game to kind of feel like Mario Kart. 
 
-The UI navigatin with gamepad inputs can sometimes be a little bit buggy, but the mouse will always work to click on the buttons.
+The UI navigatin with gamepad inputs can sometimes be a little bit buggy, but the mouse will always work to click on the buttons. And also the fuel pickups get bugged, its supposed to refuel the car to 100 max, but sometimes it gets over 100. Sometimes the NextLevel Button loads the same scene, if it does that you can just change level from either the Main or Pause menu, but usually it works fine. 
 
 If you want to play with controller, dont forget to plug in it before you start the game, otherwise it wont work. 
 
